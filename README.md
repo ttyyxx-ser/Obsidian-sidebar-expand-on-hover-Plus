@@ -11,9 +11,10 @@
 
 ## 如何安装
 1. 点击上方code --> Download ZIP 下载保存到本地。
-2. Obsidian-sidebar-expand-on-hover-Plus-main.zip 解压缩到 `Obsidian-sidebar-expand-on-hover-Plus` 文件夹。(文件夹名字不要错) 
-3. 重启或重载Obsidian。 
-4.在第三方插件中找到 `Sidebar Expand on Hover Plus` 启用插件即可。  
+2. Obsidian-sidebar-expand-on-hover-Plus-main.zip 解压缩到 `Obsidian-sidebar-expand-on-hover-Plus` 文件夹。(文件夹名字不要错)
+3. `Obsidian-sidebar-expand-on-hover-Plus` 文件夹要移动到obsidian的 `.obsidian\plugins` 文件夹中
+4. 重启或重载Obsidian。
+5. 在第三方插件中找到 `Sidebar Expand on Hover Plus` 启用插件即可。  
 <img width="1092" height="711" alt="image" src="https://github.com/user-attachments/assets/0ff0e310-fc69-49e4-9931-20855afc9fbb" />
 
 ## 如何设置
