@@ -1,4 +1,7 @@
 # Obsidian-sidebar-expand-on-hover-Plus
+版本调试信息：Obsidian v1.9.12
+
+
 
 ## 如何安装
 1. 点击上方code --> Download ZIP 下载保存到本地。
