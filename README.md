@@ -8,8 +8,8 @@
 <img width="1092" height="711" alt="image" src="https://github.com/user-attachments/assets/0ff0e310-fc69-49e4-9931-20855afc9fbb" />
 
 ## 如何设置
-插件设置界面
 启用/关闭左侧边栏、右侧边栏、标签栏、标题栏。也可以用鼠标右键双击来锁定/解锁。
+一般用默认设置调一下栏宽即可。
 <img width="859" height="872" alt="image" src="https://github.com/user-attachments/assets/b7cde91e-dd1c-4685-b620-d0897be31dc3" />
 <img width="794" height="380" alt="image" src="https://github.com/user-attachments/assets/e19bbbdd-052a-4ae8-92f0-0beee9b123a3" />
 
