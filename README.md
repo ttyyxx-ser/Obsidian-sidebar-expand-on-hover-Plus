@@ -4,7 +4,7 @@
 插件优点：界面喜欢极简风的同学推荐使用。 
 
 ## 使用演示
-
+[演示](https://github.com/ttyyxx-ser/Obsidian-sidebar-expand-on-hover-Plus/blob/main/20251007_135740-ezgif.com-video-to-gif-converter.gif)
 
 
 ## 如何安装
