@@ -1,8 +1,10 @@
 # Obsidian-sidebar-expand-on-hover-Plus
 版本调试信息：Obsidian v1.9.12 
+
 插件优点：界面喜欢极简风的同学推荐使用。 
 
 ## 使用演示
+
 
 
 ## 如何安装
