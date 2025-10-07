@@ -4,6 +4,8 @@
 插件优点：界面喜欢极简风的同学推荐使用。 
 
 ## 使用演示
+启用插件后自动隐藏左右侧边栏，鼠标划向边缘自动展开。想要暂时不隐藏可以用鼠标在侧边栏右键双击，即可暂时锁定/解锁。
+支持右键双击暂时锁定/解锁：左侧边栏、右侧边栏、左侧边栏标签栏、右侧边栏标签栏、标题栏（最大化那三个图标）。
 ![演示](https://github.com/ttyyxx-ser/Obsidian-sidebar-expand-on-hover-Plus/blob/main/20251007_135740-ezgif.com-video-to-gif-converter.gif)
 
 
