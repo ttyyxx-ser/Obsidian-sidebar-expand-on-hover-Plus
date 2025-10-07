@@ -1,0 +1,1 @@
+# Obsidian-sidebar-expand-on-hover-Plus
